@@ -1,0 +1,12 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Anatcha Chaysery",
+        "email": "anatchaaa@gmail.com",
+        "password": "12345",
+        "gender": "Famale"
+      }
+    ]
+  }
+  
